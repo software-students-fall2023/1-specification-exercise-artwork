@@ -4,7 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+- Aditya Pandhare: https://github.com/awesomeadi00
+- Anzhelika Nastashchuk: https://github.com/annsts
+- Baani Pasrija: https://github.com/zeepxnflrp
+- Zander Chen: https://github.com/ccczy-czy
 
 ## Stakeholders
 
