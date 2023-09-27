@@ -49,7 +49,7 @@ Estimation of effort: Hard
 Acceptance criteria:
 - When clicked on artworks, it will be followed by a description provided by the artist to understand more about the art piece.
 - The app provides an intuitive and user-friendly interface for navigating and viewing AR art while walking around the city. 
-- Users can add artists they like to their ‘Artists’ tab; they can see more of these artists’ works and get notified when they publish new art.
+- Users can add artists they like to the ‘Saved Artists’ section under their profile; they can see more of these artists’ works and get notified when they publish new art.
 
 
 ### User story #3: As a college student in NYC, I want to share the art I see with my friends so that I can have interesting conversations with them.
