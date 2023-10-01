@@ -48,7 +48,7 @@ Acceptance criteria:
 - Users can view the artworks all over the city using their camera through the “Capture” tab by switching the toggle to ‘view’ mode. This will allow users to simply view the art and not draw anything on the screen. 
 - When clicked on artworks, it will be followed by a description and profile of the artist to understand more about the art piece.
 - The app provides an intuitive and user-friendly interface for navigating and viewing AR art while walking around the city.
-- Users can add artists they like to the ‘Saved Artists’ section under their profile; they can see more of these artists’ works and get notified when they publish new art.
+- Users can view any artist's work by saving and viewing their artwork in the “Gallery” tab; they can see more of these artists’ works and get notified when they publish new art.
 - Users can share art on different social media platforms to further have discussions with their friends, and develop better connections to the community.
 
 
