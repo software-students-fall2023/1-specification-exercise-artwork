@@ -35,7 +35,7 @@ Estimation of effort: Medium
 
 Acceptance criteria:
 - There is a "Profile" tab on the app where users can have their username, profile picture and relevant website links associated with them.
-- Users can create their artwork all around the city through the “View” tab by simply drawing on their screen which would appear to be drawn on the city through AR.
+- Users can create their artwork all around the city through the “Capture” tab and switch the toggle to “create”. This will allow them to access a palette of tools where they can begin drawing on their screen which would appear to be drawn on the city through AR.
 - When another user taps on their art, the artist’s profile and art description is shown.
 - Other users can upvote artists' works and even share them with other users.
 
@@ -45,7 +45,7 @@ Acceptance criteria:
 Estimation of effort: Hard
 
 Acceptance criteria:
-- Users can view the artworks all over the city using their camera through the “View” tab.
+- Users can view the artworks all over the city using their camera through the “Capture” tab by switching the toggle to ‘view’ mode. This will allow users to simply view the art and not draw anything on the screen. 
 - When clicked on artworks, it will be followed by a description and profile of the artist to understand more about the art piece.
 - The app provides an intuitive and user-friendly interface for navigating and viewing AR art while walking around the city.
 - Users can add artists they like to the ‘Saved Artists’ section under their profile; they can see more of these artists’ works and get notified when they publish new art.
@@ -86,8 +86,8 @@ Acceptance criteria:
 Estimation of effort: Very Hard
 
 Acceptance criteria: 
-- Users who are artists can simply draw over the artwork on the "View" tab.
-- They can also choose to upload artwork if they have an AR file (GLB or gITF) within the "Profiles" tab by pressing 'Upload'.
+- Users who are artists can simply draw over the artwork on the "Capture" tab.
+- They can also choose to upload artwork if they have an AR file (GLB or gITF) within the "View" tab by pressing 'Upload' when the ‘Create’ toggle is on.
 - The app maintains a tracking system to record these replacements.
 - Users can access a history of past artworks that have been swapped.
 
@@ -115,7 +115,7 @@ Acceptance Criteria:
 Estimation of effort: Medium
 
 Acceptance Criteria: 
-- The "View" tab will have a photo-capture feature. 
+- The "Capture" tab will have a photo-capture feature. 
 - The photos will be automatically saved onto their gallery.
 
 
