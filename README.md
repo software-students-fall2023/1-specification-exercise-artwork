@@ -29,17 +29,15 @@ ARtwork is a groundbreaking mobile application that transforms cities into vibra
 
 
 ## User Requirements
-### User story #1: As a digital artist, I want to display my art so I can get some recognition or viewership.
+### User story #1: As a digital artist, I want to display my art so I can get some recognition or viewership. 
 
-Estimation of effort: Medium
+Estimation of effort: Medium 
 
 Acceptance criteria:
-- Artist’s name is mentioned. 
-- There is a hyperlink / QR code to the artist’s related website or their profile.
-- Artists should have a profile tab on the app.
-- Artists should have the option to put a name, profile picture, and related website on their profile.
-- Other users can like artists' works, add comments and even share to other users, essentially like social media. 
-
+- There is a "Profile" tab on the app where users can have their username, profile picture and relevant website links associated with them.
+- Users can create their artwork all around the city through the “View” tab by simply drawing on their screen which would appear to be drawn on the city through AR.
+- When another user taps on their art, the artist’s profile and art description is shown.
+- Other users can upvote artists' works and even share them with other users.
 
 
 ### User story #2: As a local of NYC with no art experience, I want to look at and understand AR art while walking around so I can feel more connected to my community in a virtual world. 
@@ -47,30 +45,31 @@ Acceptance criteria:
 Estimation of effort: Hard
 
 Acceptance criteria:
-- When clicked on artworks, it will be followed by a description provided by the artist to understand more about the art piece.
-- The app provides an intuitive and user-friendly interface for navigating and viewing AR art while walking around the city. 
+- Users can view the artworks all over the city using their camera through the “View” tab.
+- When clicked on artworks, it will be followed by a description and profile of the artist to understand more about the art piece.
+- The app provides an intuitive and user-friendly interface for navigating and viewing AR art while walking around the city.
 - Users can add artists they like to the ‘Saved Artists’ section under their profile; they can see more of these artists’ works and get notified when they publish new art.
+- Users can share art on different social media platforms to further have discussions with their friends, and develop better connections to the community.
 
 
-### User story #3: As a college student in NYC, I want to share the art I see with my friends so that I can have interesting conversations with them.
+### User story #3: As a college student in NYC, I want to save the artworks I see and share them with my friends so that I can have interesting conversations with them.
 
-Estimation of effort: Medium
+Estimation of effort: Medium 
 
 Acceptance criteria:
 - Users should be able to save the art to their personal “Gallery” tab.
-- The app allows users to easily share specific pieces or their entire gallery on various social media and messaging platforms. 
+- The app allows users to easily share specific pieces or their entire gallery on various social media platforms.
 - Users can also share profiles of their favorite artists with friends.
 
 
-### User story #4. As a user of the AR app, I expect to receive approximate location information for artworks rather than precise coordinates. This way, I will need to explore and walk around the city to discover the art, making the experience more interactive and engaging. The app should replicate the exploration aspect of games like Pokemon Go, but with art as the focus.
+### User story #4. As a user of the AR app, I expect to receive the location information for artworks for me to go and explore the artworks throughout the city.
 
 Estimation of effort: Medium
-> Note: Hard if there is an in-app map. 
 
 Acceptance criteria: 
-- The app has two modes; Adventure mode and Regular mode. Where regular mode allows the user to find precise locations of artwork, however, adventure mode provides an approximate location for artworks, giving users a general area to explore rather than precise coordinates. 
-- Users can use this information to navigate and find art within the city.
-
+- The app offers the “Explore” tab, the user can see all artworks/events nearby them.
+- They can also use a filter to explore specific searches for pieces of artwork or events hosted by users or the company.
+- When selecting an artwork/event, they are provided with a description and details, the artist/owners and the art’s location (maps link included).
 
 
 ### User story #5. As a user interested in adding variety to my daily routine, I want the app to send me notifications encouraging me to step outside and search for artworks. 
@@ -79,36 +78,35 @@ Estimation of effort: Medium
 
 Acceptance criteria: 
 - The app sends notifications to users of certain places to visit throughout the city.
-- The app also offers the “Explore” tab where users can find new events nearby to their location regarding any artworks throughout the city. 
+- This will open the “Explore” tab where users can look through artworks/events nearby to their location.
 
 
+### User story #6. As a user, I want the ability to replace artworks created by other artists within the app. I expect the app to track these replacements, allowing me to view past artworks that have been swapped.
 
-### User story #6. As a user, I want the ability to replace artworks created by other artists within the app. I expect the app to track these replacements, allowing me to view past artworks that have been swapped, even though I cannot collect them.
-
-Estimation of effort: Hard
+Estimation of effort: Very Hard
 
 Acceptance criteria: 
-- Users who are artists and have an AR file (GLB or gITF) can replace artworks created by other artists with their own within the app. 
-- The app maintains a tracking system to record these replacements. 
-- Users can access a history of past artworks that have been swapped, but they cannot collect them. 
+- Users who are artists can simply draw over the artwork on the "View" tab.
+- They can also choose to upload artwork if they have an AR file (GLB or gITF) within the "Profiles" tab by pressing 'Upload'.
+- The app maintains a tracking system to record these replacements.
+- Users can access a history of past artworks that have been swapped.
 
 
-### User story #7. As a user, I want the ability to create private rooms or servers of the city where I can possibly display my own artwork and just for my own view. 
+### User story #7. As a user, I want the ability to create my own personal artwork of the city just for my own view so no one can edit or draw over my work. 
 
 Estimation of effort: Medium
 
 Acceptance Criteria: 
-- The app can contain a feature which allows users to join private servers or rooms where they can upload their own art and the only users that can view them is themselves.
-- Users have full control over their private rooms and if they wish to share their artwork later and make it public, they can choose to do so.
-- If users have made public artworks and would like to make them private, they are also able to do so. 
+- In the “Profile” tab, users can create/join their own private servers which serve as their own private canvas of the city for them to draw their artworks.
+- If users have made public artworks and would like to make them private, they are also able to do so, meaning they would not be in public servers.
 
 
 ### User story #8. As a user, I want the ability to restrict myself from viewing certain pieces of artwork, for censorship reasons etc. 
 
-Estimation of effort: Extra Hard
+Estimation of effort: Very Hard
 
 Acceptance Criteria: 
-- The app has to decide how to detect what certain pieces of art look like (perhaps through the incorporation of AI/machine learning). 
+- The app has to decide how to detect what certain pieces of art look like (perhaps through the incorporation of AI/Machine Learning).
 - Based on what the app detects, it will label certain artworks and filter what can be seen and what can’t be seen depending on the user’s needs. 
 
 
@@ -117,18 +115,18 @@ Acceptance Criteria:
 Estimation of effort: Medium
 
 Acceptance Criteria: 
-- The app will include an in-app camera feature which will allow the user to capture photos of the city through AR.
+- The "View" tab will have a photo-capture feature. 
 - The photos will be automatically saved onto their gallery.
-
 
 
 ### User story #10. As a user, I wish for the app to include possible art events throughout the city to encourage community building, enhance exploration further and view even more artworks. 
 
-Estimation of effort: Hard
+Estimation of effort: H
 
-- The app will include an “Explore” tab. 
-- Through this section, users will be able to search for events throughout the city that are nearby to their location.
-- Users can also host events through the app and send private or public invitations to other users. 
+Acceptance Criteria: 
+- In the “Explore” tab, users can filter for events.
+- Users will be able to scroll through events throughout the city that are nearby to their location and can attend them in person.
+
 
 
 ## Activity Diagrams
