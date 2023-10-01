@@ -11,10 +11,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 **Stakeholders Frustrations and Pain Points**: 
-- **Digital Artists**: Sophie mentioned, “I used to do paintings and have moved more towards digital art now, where there isn’t as much interaction.” It can be observed that there is a lack of community and connection in the digital art world, compared to more traditional forms of art.
-- **City Explorers**: Tim mentioned that he would prefer if exploration applications had more access to less touristy areas to really explore the in-depths of the city rather than just the face of the city.  
-- **Photographers**: Tim also mentioned that as a photographer and artist, he would find it more motivating to be able to capture unique sights of the city through art. 
-- **Graphic Design students**: Yixiao mentioned that although museums offer a good amount of exhibitions of artworks, they are still missing the part of interaction, for example, the openings of the galleries and a space solely for the artist she is interested in. Galleries sometimes fail to provide enough artworks for her to view.
+- **Digital Artists**: They mentioned, “I used to do paintings and have moved more towards digital art now, where there isn’t as much interaction.” It can be observed that there is a lack of community and connection in the digital art world, compared to more traditional forms of art.
+- **City Explorers**: They mentioned that he would prefer if exploration applications had more access to less touristy areas to really explore the in-depths of the city rather than just the face of the city.  
+- **Photographers**: They also mentioned that as a photographer and artist, he would find it more motivating to be able to capture unique sights of the city through art. 
+- **Graphic Design students**: They mentioned that although museums offer a good amount of exhibitions of artworks, they are still missing the part of interaction, for example, the openings of the galleries and a space solely for the artist she is interested in. Galleries sometimes fail to provide enough artworks for her to view.
 
 **Stakeholders Goals**: 
 1. Create an application with a social aspect that can bring artists together and re-instill a sense of community within the digital art world. A way to do this is to allow users to make and share art. 
