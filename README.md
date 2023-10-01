@@ -121,7 +121,7 @@ Acceptance Criteria:
 
 ### User story #10. As a user, I wish for the app to include possible art events throughout the city to encourage community building, enhance exploration further and view even more artworks. 
 
-Estimation of effort: H
+Estimation of effort: Hard
 
 Acceptance Criteria: 
 - In the “Explore” tab, users can filter for events.
