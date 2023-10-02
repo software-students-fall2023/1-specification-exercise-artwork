@@ -46,20 +46,68 @@ ARtwork is a groundbreaking mobile application that transforms cities into vibra
 
 ## Activity Diagrams
 
-Activity Diagram 1 - Focus is on User Stories 1, 2, 3
+**Activity Diagram 1 - Focus is on User Stories 1, 2, 3**
 ![Activity Diagram 1](https://github.com/software-students-fall2023/1-specification-exercise-artwork/assets/32769394/a5609bd8-3e3d-4621-aed5-f9c87bde8819)
 
 
-Activity Diagram 2 - Focus is on User Stories 4, 5
+**Activity Diagram 2 - Focus is on User Stories 4, 5**
 ![Activity Diagram 2](https://github.com/software-students-fall2023/1-specification-exercise-artwork/assets/32769394/2145ff7a-d78e-48d3-a2b2-efbf2afa75a5)
 
 
-Activity Diagram 3 - Focus is on User Stories 1, 6
+**Activity Diagram 3 - Focus is on User Stories 1, 6**
 ![Activity Diagram 3](https://github.com/software-students-fall2023/1-specification-exercise-artwork/assets/32769394/cf44d0c4-f061-4bdf-a916-42953ecfe651)
 
 
 
 ## Wireframe Diagrams 
+
+**Login Screen Wireframe:**
+
+
+![Login_Wireframe](https://github.com/software-students-fall2023/1-specification-exercise-artwork/assets/32769394/3472e83f-cc3b-4e2d-9e00-190e14104c29)
+
+
+**Explore Screen Wireframe:**
+
+
+![Explore_Wireframe](https://github.com/software-students-fall2023/1-specification-exercise-artwork/assets/32769394/9d327ecc-b1f3-4d7d-85a5-7ef6f9ddd112)
+![Filter_Dropdown_Wireframe](https://github.com/software-students-fall2023/1-specification-exercise-artwork/assets/32769394/b871bef4-c5a9-4cad-baa8-312601cc1c13)
+
+
+**Capture Screen Wireframe with Create Mode On:**
+
+
+![Capture_Artist_Wireframe](https://github.com/software-students-fall2023/1-specification-exercise-artwork/assets/32769394/521fd973-7937-48f2-874c-511e357bef6f)
+
+
+**Capture Screen Wireframe with User Mode On:**
+
+
+![Capture_User_Wireframe](https://github.com/software-students-fall2023/1-specification-exercise-artwork/assets/32769394/62f28f4b-6c4f-49bf-bcf6-36d5db409947)
+![Artoverlay_Wireframe](https://github.com/software-students-fall2023/1-specification-exercise-artwork/assets/32769394/8357a805-0c36-4f69-ac61-186e5ed7ba13)
+
+
+**Profile Screen Wireframe:**
+
+
+![Profile_Wireframe](https://github.com/software-students-fall2023/1-specification-exercise-artwork/assets/32769394/de588ac7-c822-438a-a845-73225033427e)
+
+
+**Gallery Screen Wireframe:**
+
+
+![Gallery_Wireframe](https://github.com/software-students-fall2023/1-specification-exercise-artwork/assets/32769394/ddd34682-b013-4adb-95d3-091e0114944a)
+
+
+**Artist Profile Screen Wireframe:**
+
+
+![ArtistProfile_Wireframe](https://github.com/software-students-fall2023/1-specification-exercise-artwork/assets/32769394/cc2bc51f-ef07-4d9b-965b-59f1af55e933)
+
+
+**Settings Screen Wireframe:**
+
+![Settings_Wireframe](https://github.com/software-students-fall2023/1-specification-exercise-artwork/assets/32769394/ff911c8e-8fa4-4535-b4d0-4ab0cfe97be3)
 
 
 ## Clickable Prototype
