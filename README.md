@@ -97,8 +97,7 @@ Acceptance criteria:
 Estimation of effort: Medium
 
 Acceptance Criteria: 
-- In the “Profile” tab, users can create/join their own private servers which serve as their own private canvas of the city for them to draw their artworks.
-- If users have made public artworks and would like to make them private, they are also able to do so, meaning they would not be in public servers.
+- In the “Profile” tab under settings, users can set their artworks as private under ‘user privacy’. This way no one can see/edit their artworks except them. 
 
 
 ### User story #8. As a user, I want the ability to restrict myself from viewing certain pieces of artwork, for censorship reasons etc. 
@@ -132,6 +131,10 @@ Acceptance Criteria:
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
+
+
+## Wireframe Diagrams 
+
 
 ## Clickable Prototype
 
