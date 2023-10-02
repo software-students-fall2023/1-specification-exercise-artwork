@@ -130,7 +130,17 @@ Acceptance Criteria:
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+Activity Diagram 1 - Focus is on User Stories 1, 2, 3
+![Activity Diagram 1](https://github.com/software-students-fall2023/1-specification-exercise-artwork/assets/32769394/a5609bd8-3e3d-4621-aed5-f9c87bde8819)
+
+
+Activity Diagram 2 - Focus is on User Stories 4, 5
+![Activity Diagram 2](https://github.com/software-students-fall2023/1-specification-exercise-artwork/assets/32769394/2145ff7a-d78e-48d3-a2b2-efbf2afa75a5)
+
+
+Activity Diagram 3 - Focus is on User Stories 1, 6
+![Activity Diagram 3](https://github.com/software-students-fall2023/1-specification-exercise-artwork/assets/32769394/cf44d0c4-f061-4bdf-a916-42953ecfe651)
+
 
 
 ## Wireframe Diagrams 
