@@ -2,6 +2,11 @@
 
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
+## Clickable Prototype
+
+[ARtwork Clickable Prototype](https://www.figma.com/proto/Zl5MFy7CDjFsLBtVzCIJcU/ARtwork?page-id=0%3A1&type=design&node-id=1-2&viewport=128%2C447%2C0.16&t=g78e8q0ZKunUMIPV-1&scaling=scale-down&starting-point-node-id=1%3A2&mode=design)
+
+
 ## Team members
 
 - Aditya Pandhare: https://github.com/awesomeadi00
@@ -108,8 +113,3 @@ ARtwork is a groundbreaking mobile application that transforms cities into vibra
 **Settings Screen Wireframe:**
 
 ![Settings_Wireframe](https://github.com/software-students-fall2023/1-specification-exercise-artwork/assets/32769394/ff911c8e-8fa4-4535-b4d0-4ab0cfe97be3)
-
-
-## Clickable Prototype
-
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
